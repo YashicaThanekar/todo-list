@@ -12,6 +12,10 @@ A simple and clean **To‑Do List** web app built using **HTML, CSS, and JavaScr
 1. Download or clone this repository.
 2. Open `index.html` in your browser.
 
+🌐 Live Preview
+🎯 **Check out the deployed project:**  
+🔗 [✨ Click here to use the To‑Do List App ✨](https://yashicathanekar.github.io/todo-list/)
+
 ⭐ **Enjoy using it!**
 
 👩‍💻 Author
